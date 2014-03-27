@@ -9,8 +9,8 @@
     "build": "browserify the.js -o build/the.js"
   },
   "dependencies": {
-    "json-stringify-safe": "5.0.x",
     "browserify": "3.33.x",
+    "crel": "1.1.x",
     "underscore": "1.6.x"
   }
 }
