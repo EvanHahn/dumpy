@@ -10,5 +10,6 @@ on your own machine
 
     $ # clone this puppy
     $ npm install
+    $ mkdir build
     $ npm run build
     $ # open index.html
