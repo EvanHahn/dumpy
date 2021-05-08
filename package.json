@@ -2,7 +2,6 @@
   "name": "dumpy",
   "version": "0.1.0",
   "description": "dump everything in `window`",
-  "author": "Evan Hahn (http://evanhahn.com)",
   "license": "Unlicense",
   "private": true,
   "scripts": {
