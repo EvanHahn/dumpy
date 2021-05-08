@@ -7,8 +7,8 @@
     "build": "browserify the.js -o build/the.js"
   },
   "dependencies": {
-    "browserify": "3.33.x",
-    "crel": "1.1.x",
-    "underscore": "1.6.x"
+    "browserify": "^17.0.0",
+    "crel": "^4.2.1",
+    "underscore": "^1.13.1"
   }
 }
