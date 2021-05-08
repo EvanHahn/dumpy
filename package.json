@@ -1,7 +1,6 @@
 {
   "name": "dumpy",
   "version": "0.1.0",
-  "description": "dump everything in `window`",
   "license": "Unlicense",
   "private": true,
   "scripts": {
